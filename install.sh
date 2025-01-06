@@ -32,6 +32,15 @@ mv -f .config/* ~/.config
 mv -f .oh-my-zsh/ ~/
 mv -f .* ~/
 
+cd ~/.config/Suckless/dwm
+sudo make clean install
+cd ../dmenu
+sudo make clean install
+cd ../slstatus
+sudo make clean install
+cd ../slock
+sudo make clean install
+
 echo "Installation complete"
 
 cd ~
