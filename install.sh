@@ -41,6 +41,11 @@ sudo make clean install
 cd ../slock
 sudo make clean install
 
+cd ~
+echo "Installing Starship Prompt"
+curl -sS https://starship.rs/install.sh | sh
+
+
 echo "Installation complete"
 
 cd ~
