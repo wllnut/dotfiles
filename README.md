@@ -8,5 +8,5 @@ This probably shouldn't be used
 
 Run the following command on a minimal arch install
 ```
-curl -fsSL https://https://raw.githubusercontent.com/wllnut/dotfiles/refs/heads/master/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/wllnut/dotfiles/refs/heads/master/install.sh | bash
 ```
