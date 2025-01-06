@@ -1,17 +1,5 @@
 #!/bin/bash
 
-echo "Installing base development tools..."
-sudo pacman -S --needed git base-devel --noconfirm
-
-#Install yay
-echo "Installing yay from aur..."
-git clone https://aur.archlinux.org/yay.git
-cd yay
-makepkg -si
-
-cd ..
-rm -rf yay
-
 #Install packages
 echo "Cloning dotfiles repository..."
 git clone https://github.com/wllnut/dotfiles/
