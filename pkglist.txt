@@ -1,3 +1,4 @@
+xorg
 amd-ucode
 ansible
 arandr
