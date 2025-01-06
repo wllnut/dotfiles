@@ -115,7 +115,7 @@ alias tree="exa -la -g --icons --tree -L 2"
 
 neofetch
 
-cat /home/william/.cache/wal/sequences
+cat ~/.cache/wal/sequences
 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
