@@ -1,0 +1,8 @@
+gleam
+iamb-git
+protontricks
+python-pywalfox
+r2modman-bin
+simplescreenrecorder
+yay
+yay-debug
