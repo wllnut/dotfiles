@@ -1,0 +1,14 @@
+{
+  "Comment.nvim": { "branch": "master", "commit": "e30b7f2008e52442154b66f7c519bfd2f1e32acb" },
+  "bluloco.nvim": { "branch": "main", "commit": "f3e84601884629d9ca46b9c98aff306a10d2ae71" },
+  "lazy.nvim": { "branch": "main", "commit": "72aa3a2624be5dc240646084f7b6a38eb99eb2ce" },
+  "lazydev.nvim": { "branch": "main", "commit": "8620f82ee3f59ff2187647167b6b47387a13a018" },
+  "lush.nvim": { "branch": "main", "commit": "45a79ec4acb5af783a6a29673a999ce37f00497e" },
+  "mini.icons": { "branch": "main", "commit": "1c79feb7478ca773fa3dac5cadf43ced9180e861" },
+  "nvim-autopairs": { "branch": "master", "commit": "b464658e9b880f463b9f7e6ccddd93fb0013f559" },
+  "nvim-lspconfig": { "branch": "master", "commit": "8121483b8132b7053120fafd83728178fb3febf6" },
+  "nvim-treesitter": { "branch": "master", "commit": "556ac68cd33973a38d3f2abac47f361432593fe2" },
+  "oil.nvim": { "branch": "master", "commit": "c12fad2d225d8f81fadd48521d253607fe25465c" },
+  "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
+  "telescope.nvim": { "branch": "0.1.x", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" }
+}

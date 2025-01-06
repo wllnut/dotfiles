@@ -1,0 +1,23 @@
+2024-12-29T20:19:57.102Z [Modules] Modules initializing
+2024-12-29T20:19:57.102Z [Modules] Distribution: remote
+2024-12-29T20:19:57.102Z [Modules] Host updates: enabled
+2024-12-29T20:19:57.102Z [Modules] Module updates: enabled
+2024-12-29T20:19:57.102Z [Modules] Module install path: /home/william/.config/discord/0.0.74/modules
+2024-12-29T20:19:57.102Z [Modules] Module installed file path: /home/william/.config/discord/0.0.74/modules/installed.json
+2024-12-29T20:19:57.102Z [Modules] Module download path: /home/william/.config/discord/0.0.74/modules/pending
+2024-12-29T20:19:57.520Z [Modules] Bootstrapping...
+2024-12-29T20:19:57.521Z [Modules] Installing discord_desktop_core@0 from /var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_desktop_core.zip
+2024-12-29T20:19:57.523Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-12-29T20:19:57.523Z [Modules] Installing discord_erlpack@0 from /var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_erlpack.zip
+2024-12-29T20:19:57.524Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_erlpack.zip'
+2024-12-29T20:19:57.524Z [Modules] Installing discord_spellcheck@0 from /var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_spellcheck.zip
+2024-12-29T20:19:57.524Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-12-29T20:19:57.525Z [Modules] Installing discord_utils@0 from /var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_utils.zip
+2024-12-29T20:19:57.525Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_utils.zip'
+2024-12-29T20:19:57.525Z [Modules] Installing discord_voice@0 from /var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_voice.zip
+2024-12-29T20:19:57.526Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_voice.zip'
+2024-12-29T20:19:57.526Z [Modules] Installing discord_zstd@0 from /var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_zstd.zip
+2024-12-29T20:19:57.528Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/92a2216f28f80c08eb6c417813d6fffae8f6359242b6ee73a578036a497e5e51/files/discord/resources/bootstrap/discord_zstd.zip'
+2024-12-29T20:19:57.528Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-12-29T20:19:57.528Z [Modules] Checking for host updates.
+2024-12-29T20:19:58.010Z [Modules] Host update is available. Manual update required!
