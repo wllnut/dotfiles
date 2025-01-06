@@ -45,7 +45,28 @@ cd ~
 echo "Installing Starship Prompt"
 curl -sS https://starship.rs/install.sh | sh
 
+echo "Installing zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+
+echo "Setting Up Home Directory"
+mkdir Downloads
+mkdir Media
+mkdir Desktop
+mkdir Documents
+mkdir Code
+
+echo "Adding wallpaper"
+cd ~/Media
+mkdir pictures
+cd pictures
+mkdir .wallpaper
+cd .wallpaper
+mv ~/dotfiles/wallpaper.png .
+cd ~
+
+echo "Setting up theme"
+wal -i ~/Media/pictures/.wallpaper/wallpaper.png
 
 echo "Installation complete"
 
-cd ~
