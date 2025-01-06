@@ -69,4 +69,5 @@ echo "Setting up theme"
 wal -i ~/Media/pictures/.wallpaper/wallpaper.png
 
 echo "Installation complete"
-
+cd ~
+rm -rf dotfiles
