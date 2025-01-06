@@ -1,5 +1,4 @@
 #!/bin/bash
-set -euo pipefall
 
 echo "Installing base development tools..."
 sudo pacman -S --needed git base-devel --noconfirm
