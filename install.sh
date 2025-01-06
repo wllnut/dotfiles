@@ -28,8 +28,8 @@ rm -f pkglist.txt pkglist_aur.txt
 #Moving config files to destination
 echo "Moving config files to home directory..."
 cd ~/dotfiles
-mv -f .config/ ~/
-mv -f .oh-my-zsh ~/
+mv -f .config/* ~/.config
+mv -f .oh-my-zsh/ ~/
 mv -f .* ~/
 
 echo "Installation complete"
