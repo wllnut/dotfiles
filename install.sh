@@ -56,6 +56,7 @@ cd ~
 echo "Setting up theme"
 wal -i ~/Media/pictures/.wallpaper/wallpaper.png
 
+sudo systemctl enable ly.service
 echo "Installation complete"
 cd ~
 rm -rf dotfiles
